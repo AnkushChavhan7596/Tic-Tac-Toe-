@@ -39,8 +39,8 @@ table{
     cursor: pointer;
 }
 td{
-    width: 40px;
-    height: 70px;
+    width: 60px;
+    height: 90px;
 }
 .btns-container{
     display: flex;
@@ -84,6 +84,10 @@ td{
     }
     table{
         font-size: 45px;
+    }
+    td{
+        width: 40px;
+        height: 70px;
     }
     .btns-container{
         padding-top: 10px;
